@@ -16,3 +16,21 @@ C:\dev\Mobills\ContasAPagar\ContasAPagar.Domain.Api\obj\Debug\netcoreapp2.2\Cont
 C:\dev\Mobills\ContasAPagar\ContasAPagar.Domain.Api\obj\Debug\netcoreapp2.2\ContasAPagar.Domain.Api.pdb
 C:\dev\Mobills\ContasAPagar\ContasAPagar.Domain.Api\obj\Debug\netcoreapp2.2\ContasAPagar.Domain.Api.genruntimeconfig.cache
 C:\dev\Mobills\ContasAPagar\ContasAPagar.Domain.Api\obj\Debug\netcoreapp2.2\ContasAPagar.Domain.Api.csproj.CoreCompileInputs.cache
+C:\Users\Gerberson Dias\Source\Repos\Gerberson\Desafio_Mobills\ContasAPagar.Domain.Api\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Gerberson Dias\Source\Repos\Gerberson\Desafio_Mobills\ContasAPagar.Domain.Api\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Gerberson Dias\Source\Repos\Gerberson\Desafio_Mobills\ContasAPagar.Domain.Api\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Gerberson Dias\Source\Repos\Gerberson\Desafio_Mobills\ContasAPagar.Domain.Api\bin\Debug\netcoreapp2.2\ContasAPagar.Domain.Api.deps.json
+C:\Users\Gerberson Dias\Source\Repos\Gerberson\Desafio_Mobills\ContasAPagar.Domain.Api\bin\Debug\netcoreapp2.2\ContasAPagar.Domain.Api.runtimeconfig.json
+C:\Users\Gerberson Dias\Source\Repos\Gerberson\Desafio_Mobills\ContasAPagar.Domain.Api\bin\Debug\netcoreapp2.2\ContasAPagar.Domain.Api.runtimeconfig.dev.json
+C:\Users\Gerberson Dias\Source\Repos\Gerberson\Desafio_Mobills\ContasAPagar.Domain.Api\bin\Debug\netcoreapp2.2\ContasAPagar.Domain.Api.dll
+C:\Users\Gerberson Dias\Source\Repos\Gerberson\Desafio_Mobills\ContasAPagar.Domain.Api\bin\Debug\netcoreapp2.2\ContasAPagar.Domain.Api.pdb
+C:\Users\Gerberson Dias\Source\Repos\Gerberson\Desafio_Mobills\ContasAPagar.Domain.Api\obj\Debug\netcoreapp2.2\ContasAPagar.Domain.Api.csprojAssemblyReference.cache
+C:\Users\Gerberson Dias\Source\Repos\Gerberson\Desafio_Mobills\ContasAPagar.Domain.Api\obj\Debug\netcoreapp2.2\ContasAPagar.Domain.Api.AssemblyInfoInputs.cache
+C:\Users\Gerberson Dias\Source\Repos\Gerberson\Desafio_Mobills\ContasAPagar.Domain.Api\obj\Debug\netcoreapp2.2\ContasAPagar.Domain.Api.AssemblyInfo.cs
+C:\Users\Gerberson Dias\Source\Repos\Gerberson\Desafio_Mobills\ContasAPagar.Domain.Api\obj\Debug\netcoreapp2.2\ContasAPagar.Domain.Api.csproj.CoreCompileInputs.cache
+C:\Users\Gerberson Dias\Source\Repos\Gerberson\Desafio_Mobills\ContasAPagar.Domain.Api\obj\Debug\netcoreapp2.2\ContasAPagar.Domain.Api.RazorAssemblyInfo.cache
+C:\Users\Gerberson Dias\Source\Repos\Gerberson\Desafio_Mobills\ContasAPagar.Domain.Api\obj\Debug\netcoreapp2.2\ContasAPagar.Domain.Api.RazorAssemblyInfo.cs
+C:\Users\Gerberson Dias\Source\Repos\Gerberson\Desafio_Mobills\ContasAPagar.Domain.Api\obj\Debug\netcoreapp2.2\ContasAPagar.Domain.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Gerberson Dias\Source\Repos\Gerberson\Desafio_Mobills\ContasAPagar.Domain.Api\obj\Debug\netcoreapp2.2\ContasAPagar.Domain.Api.dll
+C:\Users\Gerberson Dias\Source\Repos\Gerberson\Desafio_Mobills\ContasAPagar.Domain.Api\obj\Debug\netcoreapp2.2\ContasAPagar.Domain.Api.pdb
+C:\Users\Gerberson Dias\Source\Repos\Gerberson\Desafio_Mobills\ContasAPagar.Domain.Api\obj\Debug\netcoreapp2.2\ContasAPagar.Domain.Api.genruntimeconfig.cache
